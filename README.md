@@ -3,9 +3,9 @@ I have provided clear illustration of SOLID principles by providing some example
  1) Violation of S.O.L.I.D principles
  2) Strictly following S.O.L.I.D principles 
  
-#Note
--- to demonstrate each principle, i have written some junit tests on each topic you can find them in test folder
--- on each class i have added some read up's  on why i have done the way i have done those implementation.
+### Note
+* to demonstrate each principle, i have written some junit tests on each topic you can find them in test folder
+* on each class i have added some read up's  on why i have done the way i have done those implementation.
 
 
 ### Skills required 
